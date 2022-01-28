@@ -1,0 +1,16 @@
+.navbar {
+    color: #fff;
+    background: #171717;
+}
+
+.menu {
+    height: 50px;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.menuItem {
+    margin: 0 8px;
+}

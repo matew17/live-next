@@ -1,0 +1,16 @@
+.characterContainer {
+    margin: 8px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.gender {
+    font-weight: 700;
+}
+
+.name {
+    margin: 8px 0 0 0;
+}
